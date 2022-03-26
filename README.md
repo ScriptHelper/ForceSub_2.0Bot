@@ -2,7 +2,7 @@
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://github.com/ScriptHelper/ForceSub_2.0Bot"><img src="https://telegra.ru.com/p/a952d3e2xb5f1cf87bdfe8cc83f8db6e0383aa159a40211ab" width="2000"></a></p>
+<p align="center"><a href="https://github.com/ScriptHelper/ForceSubscribeBot"><img src="https://telegra.ru.com/p/a952d3e2xb5f1cf87bdfe8cc83f8db6e0383aa159a40211ab" width="2000"></a></p>
 
 A Telegram bot to force users to subscribe to a particular chat.
 
@@ -12,7 +12,7 @@ A Telegram bot to force users to subscribe to a particular chat.
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ScriptHelper/ForceSub_2.0Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ScriptHelper/ForceSubscribeBot)
 
 1. Click the above button and enter the following information: `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till the deployment is complete (it will take at most 2 minutes).
@@ -23,7 +23,7 @@ A Telegram bot to force users to subscribe to a particular chat.
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/ScriptHelper/ForceSub_2.0Bot
+   git clone https://github.com/ScriptHelper/ForceSubscribeBot
    ```
    
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
@@ -32,7 +32,7 @@ A Telegram bot to force users to subscribe to a particular chat.
 
 4. Enter the directory
    ```markdown
-   cd ForceSub_2.0Bot
+   cd ForceSubscribeBot
    ```
 5. Run the file
    ```markdown
