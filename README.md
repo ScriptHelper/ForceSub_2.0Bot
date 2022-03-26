@@ -32,7 +32,7 @@ A Telegram bot to force users to subscribe to a particular chat.
 
 4. Enter the directory
    ```markdown
-   cd ForceSubscribeBot
+   cd ForceSub_2.0Bot
    ```
 5. Run the file
    ```markdown
